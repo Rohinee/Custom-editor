@@ -1,0 +1,22 @@
+.RED_COLOR {
+    color: red;
+    text-decoration: underline;
+}
+
+.header-container {
+    display: flex;
+}
+.subHeader1 {
+    flex: 1;
+    text-align: right;
+}
+.subHeader2 {
+    flex: 1;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 4rem;
+}
+.btn-css {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    font-size: medium;
+}
